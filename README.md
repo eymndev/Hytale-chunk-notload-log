@@ -25,45 +25,7 @@ Yes, I tried running it on other versions as well and it didn't work.
 
 Device Information:
 
-➜  ~ neofetch --backend off
-eymen@Eymen-MacBook-Air.local 
+<img width="733" height="347" alt="➜  ~ neofetch --backend offeymen@Eymen-MacBook-Air.local ----------------------------- OS: macOS 26.3 25D5087f arm64 Host: Mac16,12 Kernel: 25.3.0 Uptime: 1 day, 4 hours, 12 mins Packages: 65 (brew) Shell: zsh 5.9 Resolution: 1470x956 DE: Aqua WM: Quartz Compositor WM Theme: Blue (Dark) Terminal: Apple_Terminal Terminal Font: SFMonoTerminal-Regular CPU: Apple M4 GPU: Apple M4 Memory: 2448MiB / 16384MiB " src="https://github.com/user-attachments/assets/a953eb0e-106e-4520-9f53-96942111a798" />
 
------------------------------ 
-
-OS: macOS 26.3 25D5087f arm64 
-
-Host: Mac16,12 
-
-Kernel: 25.3.0 
-
-Uptime: 1 day, 4 hours, 12 mins 
-
-Packages: 65 (brew) 
-
-Shell: zsh 5.9 
-
-Resolution: 1470x956 
-
-DE: Aqua 
-
-WM: Quartz Compositor 
-
-WM Theme: Blue (Dark) 
-
-Terminal: Apple_Terminal 
-
-Terminal Font: SFMonoTerminal-Regular 
-
-CPU: Apple M4 
-
-GPU: Apple M4 
-
-Memory: 2448MiB / 16384MiB 
-
-                         
-                         
-
-
-➜  ~ 
-
+[Full text](404)
 This bug report is open source and licensed with CC0
