@@ -5,7 +5,7 @@
 Hytale game bugfix resources
 
 
-google drive link: [Logs, World data and more](https://drive.google.com/drive/folders/1UOMzfJvhr5S5ocdD9r7ajNyVVf3HB1o2)
+google drive link: [Logs, World data and more](https://drive.google.com/drive/folders/1UOMzfJvhr5S5ocdD9r7ajNyVVf3HB1o2?usp=sharing)
 
 FAQs:
 
